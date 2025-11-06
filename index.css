@@ -1,0 +1,49 @@
+/* Typografia i układ podstawowy */
+html {
+  font-size: 17px;
+  line-height: 1.6;
+  font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #f9f9f7;
+  color: #222;
+}
+
+body {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem;
+}
+
+/* Nagłówek */
+header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+h1 {
+  font-size: 2.2rem;
+  margin-bottom: 0.3rem;
+  letter-spacing: 0.02em;
+}
+
+.tagline {
+  font-size: 1.05rem;
+  color: #555;
+}
+
+/* Sekcje */
+.intro p {
+  margin-bottom: 1.2rem;
+}
+
+/* Stopka */
+footer {
+  text-align: center;
+  margin-top: 4rem;
+  font-size: 0.9rem;
+  color: #777;
+}
+
+/* Drobny akcent wizualny */
+strong {
+  font-weight: 600;
+}
