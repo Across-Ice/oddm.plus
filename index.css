@@ -30,6 +30,10 @@ h1 {
   color: #555;
 }
 
+.intro {
+  text-align: center;
+}
+
 /* Sekcje */
 .intro p {
   margin-bottom: 1.2rem;
